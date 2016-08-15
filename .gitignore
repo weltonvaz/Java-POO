@@ -1,2 +1,6 @@
-
+build.xml
+manifest.mf
+.netbeans_automatic_build
+.netbeans_update_resources
+/Aula02/nbproject/private/
 /Aula03/nbproject/private/
